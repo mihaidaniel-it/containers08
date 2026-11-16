@@ -1,0 +1,4 @@
+# Зависимости Composer - устанавливаются командой composer install, в git их не храним
+vendor/
+# Отчеты о тестах - создаются при запуске PHPUnit с параметром --log-junit
+test-results/

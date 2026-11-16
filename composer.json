@@ -1,0 +1,8 @@
+{
+    "name": "mihaidaniel-it/containers08",
+    "description": "PHP site with SQLite database",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^12"
+    }
+}
